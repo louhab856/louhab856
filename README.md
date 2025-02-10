@@ -1,4 +1,14 @@
-- 👋 Hi, I’m @louhab abderazzak from casablanca
-- 👀 I’m interested in web developpement 
-- 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me by gmail : louhab.abderazzak.pro@gmail.com or what's up : +212 769-828784
+# 👋 Hi, I’m Louhab Abderazzak  
+
+### 🚀 About Me  
+I'm a full-stack developer from Casablanca, passionate about web development and always eager to collaborate on exciting projects.  
+
+### 💻 Tech Stack  
+- **Backend:** Laravel, Node.js  
+- **Frontend:** Angular, Vue.js, React.js  
+- **Database:** MySQL, PostgreSQL, MongoDB  
+- **DevOps:** Docker, CI/CD  
+
+### 🤝 Let's Connect  
+📧 Email: [louhab.abderazzak.pro@gmail.com](mailto:louhab.abderazzak.pro@gmail.com)  
+📱 WhatsApp: [+212 769-828784](https://wa.me/212769828784)  
