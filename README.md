@@ -1,14 +1,37 @@
-# 👋 Hi, I’m Louhab Abderazzak  
 
-### 🚀 About Me  
-I'm a full-stack developer from Casablanca, passionate about web development and always eager to collaborate on exciting projects.  
+<h1 align="center">👋 Hi, I’m Louhab Abderazzak</h1>
 
-### 💻 Tech Stack  
-- **Backend:** Laravel, Node.js  
-- **Frontend:** Angular, Vue.js, React.js  
-- **Database:** MySQL, PostgreSQL, MongoDB  
-- **DevOps:** Docker, CI/CD  
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Full-Stack Developer | Laravel | Angular | Vue.js | React.js
+</p>
 
-### 🤝 Let's Connect  
-📧 Email: [louhab.abderazzak.pro@gmail.com](mailto:louhab.abderazzak.pro@gmail.com)  
-📱 WhatsApp: [+212 769-828784](https://wa.me/212769828784)  
+---
+
+## 🚀 About Me  
+💻 Passionate about web development and always eager to learn new technologies.  
+🔧 Specialized in building scalable web applications.  
+🎯 Looking for exciting collaborations and open-source contributions.  
+
+---
+
+## 🛠 Tech Stack  
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=louhab&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=louhab&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+## 🤝 Let's Connect  
+📧 [Email](mailto:louhab.abderazzak.pro@gmail.com)  
+📱 [WhatsApp](https://wa.me/212769828784)  
